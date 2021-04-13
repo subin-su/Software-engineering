@@ -14,7 +14,7 @@ function logo() {
               target="_blank"
               rel="noreferrer"
             >
-             See how to protect yourself from corona
+             See how to protect yourself from coronaa
               </a>
   </div>
       
